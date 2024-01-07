@@ -1,4 +1,5 @@
 ﻿//serial.c
+//TC1047_COM3
 
 #include <Windows.h>
 #include <stdio.h>
