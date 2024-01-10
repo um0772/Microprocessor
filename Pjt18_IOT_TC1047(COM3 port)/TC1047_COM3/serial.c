@@ -1,5 +1,6 @@
 ﻿//serial.c
 //TC1047_COM3
+//Pjt18.c
 
 #include <Windows.h>
 #include <stdio.h>
